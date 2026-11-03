@@ -1,0 +1,12 @@
+#Here ur VTS-TOKEN
+token.txt
+#.env
+**.env
+
+#Cache
+*.pyc
+**/__pycache__/
+#venv Python3.11 supports
+venv/
+
+new_tts_tut.py
