@@ -343,7 +343,10 @@ The model must support the parameters being used and suitable value ranges. If y
 2. Enable the Public API and check the address and port in `vts_model/api_parameters.py`.
 3. Leave the application running. The first time Nola connects, allow access for the plugin.
 
-### Step 2. Start AllTalk TTS
+### Step 2. Download and start AllTalk TTS
+
+MEGA Download: https://mega.nz/file/XXJCVSyY#5LXleAw__HYr7tPQevYF9Hxk81UpAvFvSKS9RAUHnjY
+after the download unzip and put the dir in VTuber/ dir
 
 In a separate terminal:
 
@@ -835,7 +838,10 @@ tts_character_voice = 'VO_Ganyu_About_the_Vision.wav'
 2. Включите Public API и проверьте адрес и порт, заданные в `vts_model/api_parameters.py`.
 3. Оставьте приложение запущенным. При первом подключении Нолы разрешите доступ плагина.
 
-### Шаг 2. Запустите AllTalk TTS
+### Шаг 2. Скачайте и запустите AllTalk TTS
+
+MEGA: https://mega.nz/file/XXJCVSyY#5LXleAw__HYr7tPQevYF9Hxk81UpAvFvSKS9RAUHnjY
+После загрузки распакуйте и перенесите в основую папку VTuber/
 
 В отдельном терминале:
 
